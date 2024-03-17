@@ -4,9 +4,6 @@
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbecode.com.br%2Fprincipais-linguagens-de-programacao%2F&psig=AOvVaw0xa0x3BTM2yrOR_AwteaTx&ust=1710796865710000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC5tJCd_IQDFQAAAAAdAAAAABAS" alt="Logo" width="100%" height="auto">
   </a>
 
-<h1 align='center'>
-  Meus Estudos
-  
 <p align='center'>
   Todas as minhas atividades, estudos, códigos ou tentativas já feitas.
   <ms />
