@@ -6,5 +6,5 @@
 
 # Meus Estudos
 
-17.3.2024 - Entrei num curso de introdução de Ciências da Comp</putação de Harvard.
+17.3.2024 - Entrei num curso de introdução de Ciências da Computação de Harvard.
 18.3.2024 - Semana 1: C
