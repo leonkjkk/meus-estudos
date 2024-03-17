@@ -8,7 +8,7 @@
   <summary>Conteúdos</summary>
   <ol>
     <li>
-      <a href = '#Meus Estudos'>Curso de Harvard</a>
+      <a href = '#Curso Harvard'>Curso de Harvard</a>
       <ul>
         <li><a href=#Semana 1: C>Semana 1: C</a></li>
       </ul>
