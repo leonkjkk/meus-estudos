@@ -16,7 +16,9 @@
 </details>
        
 </detail>
+
 # Curso Harvard
+
 17.3.2024 - Entrei num curso de introdução de Ciências da Computação de Harvard.
 
 # Semana 1: C
