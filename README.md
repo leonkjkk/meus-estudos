@@ -1,6 +1,6 @@
 <me />
 <h1 align='center'>
-  # Meus Estudos
+  Meus Estudos
   <me />
 </h1>
 
