@@ -1,15 +1,15 @@
+<me />
+<title align='center'>
+  # Meus Estudos
+  <me />
+</title>
+
+
 <ms />
 <p align='center'>
   Todas as minhas atividades, estudos, códigos ou tentativas já feitas.
   <ms />
 </p>
-
-<me />
-<p align='center'>
-  # Meus Estudos
-  <me />
-</p>
-
 
 <details open='open'>
   <summary>Conteúdos</summary>
