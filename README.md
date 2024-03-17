@@ -1,7 +1,7 @@
 <ms />
 <p align="center">
   <a href="https://github.com/leonkjkk">
-    <img src="https://github.com/leonkjkk/meus-estudos/blob/main/assets/readmeimage1.jpeg" alt="Logo" width="100%" height="auto">
+    <img src="https://github.com/leonkjkk/meus-estudos/blob/main/assets/redmeimage1.jpeg" alt="Logo" width="100%" height="auto">
   </a>
 
 <p align='center'>
