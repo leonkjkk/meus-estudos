@@ -1,8 +1,8 @@
 <me />
-<title align='center'>
+<h1 align='center'>
   # Meus Estudos
   <me />
-</title>
+</h1>
 
 
 <ms />
