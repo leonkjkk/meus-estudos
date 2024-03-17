@@ -10,13 +10,13 @@
     <li>
       <a href = '#Meus Estudos'>Curso de Harvard</a>
       <ul>
-        <li><a href=#semana-1:-c>Semana 1: C</a></li>
+        <li><a href=#Semana 1: C>Semana 1: C</a></li>
       </ul>
     </li>
 </details>
        
 </detail>
-## Curso Harvard
+# Curso Harvard
 17.3.2024 - Entrei num curso de introdução de Ciências da Computação de Harvard.
 
-### Semana 1: C
+# Semana 1: C
