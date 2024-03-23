@@ -26,7 +26,7 @@
     </li>
 </details>
 
-// Gente curiosa com os meus códigos bagunçados não são bem vindas
+<!--Gente curiosa com os meus códigos bagunçados não são bem vindas-->
 
 # Curso Harvard
 
