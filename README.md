@@ -15,7 +15,7 @@
     <li>
       <a href = '#Curso-Harvard'>Curso de Harvard</a>
       <ul>
-        <li><a href=#Semana-1:C>Semana 1: C</a></li>
+        <li><a href=#Semana 1: C>Semana 1: C</a></li>
       </ul>
     </li>
     <li>
@@ -26,11 +26,13 @@
     </li>
 </details>
 
+// Gente curiosa com os meus códigos bagunçados não são bem vindas
+
 # Curso Harvard
 
 17.3.2024 - Entrei num curso de introdução de Ciências da Computação de Harvard.
 
-### Semana 1:C
+### Semana 1: C
 * 18.3.24 - 30 Minutos do vídeo de C
 
 # Curso de Python
