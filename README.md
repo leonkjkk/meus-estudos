@@ -42,3 +42,6 @@ Há um tempo havia entrado num curso de python, demorei pra dar continuidade mas
 ### Mundo 1
 
 * Estou finalizando o primeiro mundo de três, estou deveras satisfeito com a minha evolução na verdade.
+
+* Oque que eu posso fazer até agora?
+  Tudo que eu posso fazer está em: ![console0](https://github.com/leonkjkk/meus-estudos/blob/main/assets/scriptshub.py)
