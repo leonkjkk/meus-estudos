@@ -1,6 +1,3 @@
-#Importando Bibliotecas
-import tkinter
-
 #Calculadora
 def calcular():
 
