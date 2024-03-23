@@ -46,4 +46,5 @@ Há um tempo havia entrado num curso de python, demorei pra dar continuidade mas
 * Oque que eu posso fazer até agora?
 
 [- Hub de Scripts em Python](https://github.com/leonkjkk/meus-estudos/blob/main/assets/scriptshub.py)
-[- Conversor de Temperatura em Pop-up]
+
+[- Conversor de Temperatura em Pop-up](https://github.com/leonkjkk/meus-estudos/blob/main/assets/conversorempopup.py)
