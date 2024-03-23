@@ -73,8 +73,7 @@ def janelapp():
 #Manager Home
 print('Hi, i am a script manager by: Leon')
 print('This is my scripts:')
-print('1 - Calculator')
-print('2 - Even or Odd \n3 - Converter Meter in Millimeter\n4 - Popup Window')
+print('1 - Calculator \n2 - Even or Odd \n3 - Converter Meter in Millimeter\n4 - Popup Window')
 scr = input('What script you want play?')
 
 if scr not in('1', '2', '3', '4'):
