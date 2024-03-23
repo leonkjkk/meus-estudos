@@ -44,4 +44,5 @@ Há um tempo havia entrado num curso de python, demorei pra dar continuidade mas
 * Estou finalizando o primeiro mundo de três, estou deveras satisfeito com a minha evolução na verdade.
 
 * Oque que eu posso fazer até agora?
+
 [- Hub de Scripts em Python](https://github.com/leonkjkk/meus-estudos/blob/main/assets/scriptshub.py)
