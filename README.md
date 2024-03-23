@@ -21,7 +21,7 @@
     <li>
       <a href = '#Curso de Python'>Curso de Python3</a>
       <ul>
-        <li><a href = #Mundo1>Mundo 1: Python 3</a></li>    
+        <li><a href = #Mundo-1>Mundo 1: Python 3</a></li>    
       </ul>
     </li>
 </details>
@@ -37,6 +37,6 @@
 
 Há um tempo havia entrado num curso de python, demorei pra dar continuidade mas voltei.
 
-### Mundo1
+### Mundo-1
 
 * Estou finalizando o primeiro mundo de três, estou deveras satisfeito com a minha evolução na verdade.
