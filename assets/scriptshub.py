@@ -1,7 +1,7 @@
-#Calculadora
+#Importando Bibliotecas
 import tkinter
 
-
+#Calculadora
 def calcular():
 
     print('======CALCULATOR=======')
