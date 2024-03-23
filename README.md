@@ -21,7 +21,7 @@
     <li>
       <a href = '#Curso de Python'>Curso de Python3</a>
       <ul>
-        <li><a href = #Mundo 1>Mundo 1: Python 3</a></li>    
+        <li><a href = #Mundo-1>Mundo 1: Python 3</a></li>    
       </ul>
     </li>
 </details>
