@@ -48,3 +48,5 @@ Há um tempo havia entrado num curso de python, demorei pra dar continuidade mas
 [- Hub de Scripts em Python](https://github.com/leonkjkk/meus-estudos/blob/main/assets/scriptshub.py)
 
 [- Conversor de Temperatura em Pop-up](https://github.com/leonkjkk/meus-estudos/blob/main/assets/conversorempopup.py)
+
+[- Manipulação de String](https://github.com/leonkjkk/meus-estudos/blob/main/assets/%23%20Atividades%20string.py)
