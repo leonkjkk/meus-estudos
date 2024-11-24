@@ -15,7 +15,7 @@
     <li>
       <a href = '#Tecnologias'>Tecnologias conhecidas</a>
       <ul>
-        <li><a href=#Python>Projetos com Python</a></li>
+        <li><a href=#Python>Python</a></li>
       </ul>
     </li>
 </details>
@@ -28,9 +28,9 @@
 
 ### Python
 
-* Mundo um finalizado.
+* Finalizei 1 de 3 cursos de Python que pretendo fazer.
 
-* Oque que eu posso fazer até agora?
+Alguns projetos:
 
 [- Hub de Scripts em Python](https://github.com/leonkjkk/meus-estudos/blob/main/assets/scriptshub.py)
 
